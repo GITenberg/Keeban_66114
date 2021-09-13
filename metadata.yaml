@@ -1,5 +1,8 @@
 _repo: Keeban_66114
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 66114-h/images/cover.jpg
 creator:
   author:
     agent_name: Balmer, Edwin
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/36187
     wikipedia: https://en.wikipedia.org/wiki/Edwin_Balmer
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66114#Keeban
 gutenberg_issued: '2021-08-23'
 identifiers:
   gutenberg: '66114'
