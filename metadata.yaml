@@ -1,0 +1,28 @@
+_repo: Keeban_66114
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Balmer, Edwin
+    birthdate: 1883
+    deathdate: 1959
+    gutenberg_agent_id: '36187'
+    url: http://www.gutenberg.org/2009/agents/36187
+    wikipedia: https://en.wikipedia.org/wiki/Edwin_Balmer
+description: ''
+gutenberg_issued: '2021-08-23'
+identifiers:
+  gutenberg: '66114'
+  lccn: '23007832'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Adventure stories'
+- !lcsh 'Detective and mystery stories'
+- !lcc 'PS'
+- !lcsh 'Chicago (Ill.) -- Fiction'
+- !lcsh 'Brothers -- Fiction'
+- GITenberg
+title: Keeban
+url: http://www.gutenberg.org/ebooks/66114
